@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Shyam Soni</h1>
-<h3 align="center">A passionate developer and lifelong learner from India 🇮🇳</h3>
+<h3 align="center">A passionate developer and lifelong learner</h3>
 
 - 🌱 I’m currently learning **Java, AI/ML, Web Development**
 - 🧠 Building a mental health app for the **Google Solution Challenge 2025**
