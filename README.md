@@ -14,21 +14,21 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,github,git,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsoni-github&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam4849-github&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsoni-github&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849-github&theme=tokyonight" />
 </p>
 
 ---
@@ -40,5 +40,5 @@
 
 ---
 
-⭐️ From [@shyamsoni-github](https://github.com/shyamsoni-github)
+⭐️ From [@shyamsoni-github](https://github.com/Shyam4849)
 
