@@ -21,14 +21,14 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam4849-github&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam4849&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849-github&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849&theme=tokyonight" />
 </p>
 
 ---
