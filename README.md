@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/shyam-kumar-soni-4017ba28b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/www.linkedin.com/in/shyam-kumar-soni-4017ba28b)
 <!-- 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&style=for-the-badge)](https://yourwebsite.com) 
