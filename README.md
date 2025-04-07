@@ -34,11 +34,13 @@
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shyam-kumar-soni-4017ba28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+<!-- 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&style=for-the-badge)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&style=for-the-badge)](https://yourwebsite.com) 
+-->
 
 ---
 
-⭐️ From [@shyamsoni-github](https://github.com/Shyam4849)
+⭐️ From [@Shyam Soni - Github](https://github.com/Shyam4849)
 
