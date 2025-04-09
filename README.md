@@ -24,14 +24,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shyam4849&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
 </p>
 
----
 
-### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam4849&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
+
+<!-- ### 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam4849&theme=tokyonight" />
+</p>
+
+
+---
+-->
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shyam-kumar-soni-4017ba28b)
