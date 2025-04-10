@@ -31,6 +31,8 @@
 
 ---
 
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Shyam4849&show_icons=true&theme=tokyonight&locale=en" alt="Shyam4849" /></p>
+
 <!-- ### 🔥 Contribution Activity
 
 <p align="center">
