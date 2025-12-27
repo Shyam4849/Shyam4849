@@ -14,20 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam4849&show_icons=true&theme=tokyonight" alt="shyam's github stats" />
-</p>
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam4849&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849&" alt="Shyam4849" /></p>
-
-
 <img src="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/github-contribution-grid-snake.svg" />
 
 
