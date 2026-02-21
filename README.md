@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shyam Kumar Soni
+Hi👋 My name is Shyam Kumar Soni
 =========================================================================================================================================
 
 Data Science and Machine Learning Enthusiast
@@ -21,3 +21,12 @@ Data Science and Machine Learning Enthusiast
 ### My Github Stats
 
 <a href="http://www.github.com/Shyam4849"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam4849&stroke=ef4444&background=000000&ring=64748b&fire=64748b&currStreakNum=ef4444&currStreakLabel=64748b&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph.svg">
+</picture>
