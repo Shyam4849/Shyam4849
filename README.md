@@ -24,9 +24,9 @@ Data Science and Machine Learning Enthusiast
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/Shyam4849/Shyam4849/output/github-contribution-grid-snake.svg">
 </picture>
