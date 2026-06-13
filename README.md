@@ -5,7 +5,7 @@ Data Science and Machine Learning Enthusiast
 --------------------------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [piyush.soni8877@gmail.com](mailto:shyam.soni.ds@gmail.com)
+* ✉️  You can contact me at [shyam.soni.ds@gmail.com](mailto:shyam.soni.ds@gmail.com)
 * 🧠  I'm currently learning Data Science and Machine Learning
 * ⚡  Coding with music on
 
