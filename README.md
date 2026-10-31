@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shyam Kumar Soni
+# Hello 👋, I'm Shyam Kumar Soni
 
 ### Data Science & Machine Learning Enthusiast
 
